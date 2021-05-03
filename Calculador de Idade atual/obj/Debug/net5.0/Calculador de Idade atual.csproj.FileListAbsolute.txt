@@ -1,0 +1,16 @@
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Idade atual\bin\Debug\net5.0\Calculador de Idade atual.exe
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Idade atual\bin\Debug\net5.0\Calculador de Idade atual.deps.json
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Idade atual\bin\Debug\net5.0\Calculador de Idade atual.runtimeconfig.json
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Idade atual\bin\Debug\net5.0\Calculador de Idade atual.runtimeconfig.dev.json
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Idade atual\bin\Debug\net5.0\Calculador de Idade atual.dll
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Idade atual\bin\Debug\net5.0\ref\Calculador de Idade atual.dll
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Idade atual\bin\Debug\net5.0\Calculador de Idade atual.pdb
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Idade atual\obj\Debug\net5.0\Calculador de Idade atual.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Idade atual\obj\Debug\net5.0\Calculador de Idade atual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Idade atual\obj\Debug\net5.0\Calculador de Idade atual.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Idade atual\obj\Debug\net5.0\Calculador de Idade atual.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Idade atual\obj\Debug\net5.0\Calculador de Idade atual.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Idade atual\obj\Debug\net5.0\Calculador de Idade atual.dll
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Idade atual\obj\Debug\net5.0\ref\Calculador de Idade atual.dll
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Idade atual\obj\Debug\net5.0\Calculador de Idade atual.pdb
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Idade atual\obj\Debug\net5.0\Calculador de Idade atual.genruntimeconfig.cache

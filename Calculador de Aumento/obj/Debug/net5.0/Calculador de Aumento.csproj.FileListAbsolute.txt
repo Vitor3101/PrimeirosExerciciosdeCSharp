@@ -1,0 +1,16 @@
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Aumento\bin\Debug\net5.0\Calculador de Aumento.exe
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Aumento\bin\Debug\net5.0\Calculador de Aumento.deps.json
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Aumento\bin\Debug\net5.0\Calculador de Aumento.runtimeconfig.json
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Aumento\bin\Debug\net5.0\Calculador de Aumento.runtimeconfig.dev.json
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Aumento\bin\Debug\net5.0\Calculador de Aumento.dll
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Aumento\bin\Debug\net5.0\ref\Calculador de Aumento.dll
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Aumento\bin\Debug\net5.0\Calculador de Aumento.pdb
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Aumento\obj\Debug\net5.0\Calculador de Aumento.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Aumento\obj\Debug\net5.0\Calculador de Aumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Aumento\obj\Debug\net5.0\Calculador de Aumento.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Aumento\obj\Debug\net5.0\Calculador de Aumento.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Aumento\obj\Debug\net5.0\Calculador de Aumento.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Aumento\obj\Debug\net5.0\Calculador de Aumento.dll
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Aumento\obj\Debug\net5.0\ref\Calculador de Aumento.dll
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Aumento\obj\Debug\net5.0\Calculador de Aumento.pdb
+C:\Users\vitor\OneDrive\Documentos\SENAI\C# Exercicios\Calculador de Aumento\obj\Debug\net5.0\Calculador de Aumento.genruntimeconfig.cache

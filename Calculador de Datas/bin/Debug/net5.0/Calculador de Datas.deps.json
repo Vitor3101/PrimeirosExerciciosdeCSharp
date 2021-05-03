@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Calculador de Datas/1.0.0": {
+        "runtime": {
+          "Calculador de Datas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculador de Datas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
